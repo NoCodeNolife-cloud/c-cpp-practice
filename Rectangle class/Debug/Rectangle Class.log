@@ -1,0 +1,6 @@
+﻿  Rectangle Class.cpp
+E:\项目\visual studio Project\Daily-practice\Rectangle Class\Rectangle Class.cpp(40,37): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\项目\visual studio Project\Daily-practice\Rectangle Class\Rectangle Class.cpp(40,32): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\项目\visual studio Project\Daily-practice\Rectangle Class\Rectangle Class.cpp(40,27): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\项目\visual studio Project\Daily-practice\Rectangle Class\Rectangle Class.cpp(40,22): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  Rectangle Class.vcxproj -> E:\项目\visual studio Project\Daily-practice\Rectangle Class\Debug\Rectangle Class.exe

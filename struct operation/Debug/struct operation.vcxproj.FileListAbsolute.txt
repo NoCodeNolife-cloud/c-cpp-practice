@@ -1,0 +1,2 @@
+E:\项目\visual studio Project\Daily-practice\struct operation\Debug\struct operation.exe
+E:\项目\visual studio Project\Daily-practice\struct operation\Debug\struct operation.pdb

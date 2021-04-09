@@ -1,0 +1,2 @@
+E:\项目\visual studio Project\Daily-practice\strstream\Debug\strstream.exe
+E:\项目\visual studio Project\Daily-practice\strstream\Debug\strstream.pdb

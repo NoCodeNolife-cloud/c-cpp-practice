@@ -1,0 +1,2 @@
+E:\项目\visual studio Project\Daily-practice\Overloaded operator ostream and fstream\Debug\Overloaded operator ostream and fstream.exe
+E:\项目\visual studio Project\Daily-practice\Overloaded operator ostream and fstream\Debug\Overloaded operator ostream and fstream.pdb

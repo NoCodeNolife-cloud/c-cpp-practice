@@ -1,0 +1,2 @@
+E:\项目\visual studio Project\Daily-practice\Reverse string\Debug\Reverse string.exe
+E:\项目\visual studio Project\Daily-practice\Reverse string\Debug\Reverse string.pdb

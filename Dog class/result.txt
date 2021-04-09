@@ -1,0 +1,2 @@
+Jack is a Dog who is 2 years old and 10 pounds weight
+Now Jack is 7 years old and 20 pounds weight.

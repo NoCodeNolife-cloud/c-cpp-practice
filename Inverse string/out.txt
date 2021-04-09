@@ -1,0 +1,2 @@
+原字符串为:textstring
+倒序反转后为:gnirtstxet

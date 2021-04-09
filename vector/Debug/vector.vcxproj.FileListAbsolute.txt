@@ -1,0 +1,2 @@
+E:\项目\visual studio Project\Daily-practice\vector\Debug\vector.exe
+E:\项目\visual studio Project\Daily-practice\vector\Debug\vector.pdb

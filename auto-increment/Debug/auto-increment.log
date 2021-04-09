@@ -1,0 +1,3 @@
+﻿  auto-increment.cpp
+E:\项目\visual studio Project\Daily-practice\auto-increment\auto-increment.cpp(9,13): warning C4326: “main”的返回类型应为“int”而非“void”
+  auto-increment.vcxproj -> E:\项目\visual studio Project\Daily-practice\auto-increment\Debug\auto-increment.exe

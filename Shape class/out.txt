@@ -1,0 +1,3 @@
+The area of the Circle is 78.5
+The area of the Rectangle is 24
+The area of the Square is 25

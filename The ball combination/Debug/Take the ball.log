@@ -1,0 +1,4 @@
+﻿  Take the ball.cpp
+E:\项目\visual studio Project\Daily-practice\Take the ball\Take the ball.cpp(19,7): warning C4101: “c”: 未引用的局部变量
+E:\项目\visual studio Project\Daily-practice\Take the ball\Take the ball.cpp(18,9): warning C4101: “loop”: 未引用的局部变量
+  Take the ball.vcxproj -> E:\项目\visual studio Project\Daily-practice\Take the ball\Debug\Take the ball.exe

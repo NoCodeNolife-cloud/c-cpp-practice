@@ -1,0 +1,2 @@
+5
+Now, the tree age is 9

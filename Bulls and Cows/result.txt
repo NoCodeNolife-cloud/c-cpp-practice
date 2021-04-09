@@ -1,0 +1,13 @@
+83
+try times = 1	your guess number is = 50
+too small!
+try times = 1	your guess number is = 75
+too small!
+try times = 1	your guess number is = 85
+too big!
+try times = 1	your guess number is = 70
+too small!
+try times = 1	your guess number is = 80
+too small!
+try times = 1	your guess number is = 83
+right!

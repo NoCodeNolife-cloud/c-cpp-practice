@@ -1,0 +1,2 @@
+E:\项目\visual studio Project\Daily-practice\stone\Debug\Stone.exe
+E:\项目\visual studio Project\Daily-practice\stone\Debug\Stone.pdb

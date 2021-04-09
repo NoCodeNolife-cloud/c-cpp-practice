@@ -1,0 +1,1 @@
+设计一个异常抽象类Exception,在此基础上派生一个OutOfMemory类响应内存不足,一个RangeError类响应输入的数不在指定范围内,实现并测试这几个类

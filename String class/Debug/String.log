@@ -1,0 +1,10 @@
+﻿cl : 命令行 warning D9025: 正在重写“/sdl”(用“/GS-”)
+  Function.cpp
+  Main.cpp
+  String.cpp
+E:\项目\visual studio Project\Daily-practice\String\String.cpp(12,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\项目\visual studio Project\Daily-practice\String\String.cpp(31,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\项目\visual studio Project\Daily-practice\String\String.cpp(50,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\项目\visual studio Project\Daily-practice\String\String.cpp(59,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  正在生成代码...
+  String.vcxproj -> E:\项目\visual studio Project\Daily-practice\String\Debug\String.exe

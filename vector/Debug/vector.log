@@ -1,0 +1,3 @@
+﻿  vector.cpp
+E:\项目\visual studio Project\Daily-practice\vector\vector.cpp(152,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  vector.vcxproj -> E:\项目\visual studio Project\Daily-practice\vector\Debug\vector.exe

@@ -1,0 +1,2 @@
+E:\项目\visual studio Project\Daily-practice\Factorial\Debug\Factorial.exe
+E:\项目\visual studio Project\Daily-practice\Factorial\Debug\Factorial.pdb

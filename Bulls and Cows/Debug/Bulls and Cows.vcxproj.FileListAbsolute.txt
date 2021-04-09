@@ -1,0 +1,2 @@
+E:\项目\visual studio Project\Daily-practice\Bulls and Cows\Debug\Bulls and Cows.exe
+E:\项目\visual studio Project\Daily-practice\Bulls and Cows\Debug\Bulls and Cows.pdb

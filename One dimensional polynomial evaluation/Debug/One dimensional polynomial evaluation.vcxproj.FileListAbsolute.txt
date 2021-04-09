@@ -1,0 +1,2 @@
+E:\项目\visual studio Project\Daily-practice\One dimensional polynomial evaluation\Debug\One dimensional polynomial evaluation.exe
+E:\项目\visual studio Project\Daily-practice\One dimensional polynomial evaluation\Debug\One dimensional polynomial evaluation.pdb

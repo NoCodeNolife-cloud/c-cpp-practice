@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Overloaded operator ostream and fstream", "Overloaded operator ostream and fstream.vcxproj", "{1F9B605E-9387-4A78-B2E9-888BD94C0C3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F9B605E-9387-4A78-B2E9-888BD94C0C3D}.Debug|x64.ActiveCfg = Debug|x64
+		{1F9B605E-9387-4A78-B2E9-888BD94C0C3D}.Debug|x64.Build.0 = Debug|x64
+		{1F9B605E-9387-4A78-B2E9-888BD94C0C3D}.Debug|x86.ActiveCfg = Debug|Win32
+		{1F9B605E-9387-4A78-B2E9-888BD94C0C3D}.Debug|x86.Build.0 = Debug|Win32
+		{1F9B605E-9387-4A78-B2E9-888BD94C0C3D}.Release|x64.ActiveCfg = Release|x64
+		{1F9B605E-9387-4A78-B2E9-888BD94C0C3D}.Release|x64.Build.0 = Release|x64
+		{1F9B605E-9387-4A78-B2E9-888BD94C0C3D}.Release|x86.ActiveCfg = Release|Win32
+		{1F9B605E-9387-4A78-B2E9-888BD94C0C3D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF1FDF84-F20B-4A16-B5EF-91DBA736EA22}
+	EndGlobalSection
+EndGlobal

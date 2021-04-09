@@ -1,0 +1,11 @@
+There are 0 cats alive!
+There are 1 cats alive!
+There are 2 cats alive!
+There are 3 cats alive!
+There are 4 cats alive!
+There are 5 cats alive!
+There are 4 cats alive!
+There are 3 cats alive!
+There are 2 cats alive!
+There are 1 cats alive!
+There are 0 cats alive!

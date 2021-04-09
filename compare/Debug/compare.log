@@ -1,0 +1,3 @@
+﻿  compare.cpp
+E:\项目\visual studio Project\Daily-practice\compare\compare.cpp(6,13): warning C4326: “main”的返回类型应为“int”而非“void”
+  compare.vcxproj -> E:\项目\visual studio Project\Daily-practice\compare\Debug\compare.exe
