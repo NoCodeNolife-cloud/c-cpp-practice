@@ -1,0 +1,6 @@
+﻿  function.cpp
+E:\项目\GitHub项目仓管\c-cpp-practice\short Num\function.cpp(6,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\项目\GitHub项目仓管\c-cpp-practice\short Num\function.cpp(18,20): warning C4018: “<”: 有符号/无符号不匹配
+  Main.cpp
+  正在生成代码...
+  short Num.vcxproj -> E:\项目\GitHub项目仓管\c-cpp-practice\short Num\Debug\short Num.exe
