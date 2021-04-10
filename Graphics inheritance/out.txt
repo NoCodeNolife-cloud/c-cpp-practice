@@ -1,0 +1,6 @@
+length = 25
+width = 60
+area = 1500
+length = 35
+width = 2.52
+area = 88.2
