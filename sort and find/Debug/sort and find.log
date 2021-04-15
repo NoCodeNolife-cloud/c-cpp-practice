@@ -1,0 +1,3 @@
+﻿  main.cpp
+E:\项目\GitHub项目仓管\c-cpp-practice\sort and find\main.cpp(80,16): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  sort and find.vcxproj -> E:\项目\GitHub项目仓管\c-cpp-practice\sort and find\Debug\sort and find.exe
