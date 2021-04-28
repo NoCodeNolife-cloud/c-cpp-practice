@@ -1,0 +1,5 @@
+﻿  Number.cpp
+E:\项目\GitHub项目仓管\c-cpp-practice\Prime number\Prime number\Number.cpp(12,21): warning C4018: “<”: 有符号/无符号不匹配
+E:\项目\GitHub项目仓管\c-cpp-practice\Prime number\Prime number\Number.cpp(15,14): warning C4018: “<”: 有符号/无符号不匹配
+E:\项目\GitHub项目仓管\c-cpp-practice\Prime number\Prime number\Number.cpp(26,21): warning C4018: “<”: 有符号/无符号不匹配
+  Prime number.vcxproj -> E:\项目\GitHub项目仓管\c-cpp-practice\Prime number\Debug\Prime number.exe
