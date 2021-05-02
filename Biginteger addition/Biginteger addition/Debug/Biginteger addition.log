@@ -1,0 +1,6 @@
+﻿  main.cpp
+E:\项目\GitHub项目仓管\c-cpp-practice\Biginteger addition\Biginteger addition\main.cpp(30,21): warning C4018: “<”: 有符号/无符号不匹配
+E:\项目\GitHub项目仓管\c-cpp-practice\Biginteger addition\Biginteger addition\main.cpp(30,44): warning C4018: “<”: 有符号/无符号不匹配
+E:\项目\GitHub项目仓管\c-cpp-practice\Biginteger addition\Biginteger addition\main.cpp(34,10): warning C4018: “<”: 有符号/无符号不匹配
+E:\项目\GitHub项目仓管\c-cpp-practice\Biginteger addition\Biginteger addition\main.cpp(40,10): warning C4018: “<”: 有符号/无符号不匹配
+  Biginteger addition.vcxproj -> E:\项目\GitHub项目仓管\c-cpp-practice\Biginteger addition\Debug\Biginteger addition.exe
