@@ -1,0 +1,15 @@
+﻿  Get max and min value.cpp
+E:\项目\GitHub项目仓管\c-cpp-practice\Get max and min value\Get max and min value\Get max and min value.cpp(50,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+E:\项目\GitHub项目仓管\c-cpp-practice\Get max and min value\Get max and min value\Get max and min value.cpp(21,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\项目\GitHub项目仓管\c-cpp-practice\Get max and min value\Get max and min value\Get max and min value.cpp(66): message : 查看对正在编译的函数 模板 实例化“T getMin<int>(std::vector<int,std::allocator<int>>)”的引用
+          with
+          [
+              T=int
+          ]
+E:\项目\GitHub项目仓管\c-cpp-practice\Get max and min value\Get max and min value\Get max and min value.cpp(36,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\项目\GitHub项目仓管\c-cpp-practice\Get max and min value\Get max and min value\Get max and min value.cpp(67): message : 查看对正在编译的函数 模板 实例化“T getMax<int>(std::vector<int,std::allocator<int>>)”的引用
+          with
+          [
+              T=int
+          ]
+  Get max and min value.vcxproj -> E:\项目\GitHub项目仓管\c-cpp-practice\Get max and min value\Debug\Get max and min value.exe
