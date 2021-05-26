@@ -1,0 +1,3 @@
+E:/programe/GitHub project warehouse manager/c-cpp-practice/Temporary file name/cmake-build-debug/CMakeFiles/Temporary_file_name.dir
+E:/programe/GitHub project warehouse manager/c-cpp-practice/Temporary file name/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/programe/GitHub project warehouse manager/c-cpp-practice/Temporary file name/cmake-build-debug/CMakeFiles/rebuild_cache.dir
