@@ -1,0 +1,4 @@
+open file
+done
+close
+finish
