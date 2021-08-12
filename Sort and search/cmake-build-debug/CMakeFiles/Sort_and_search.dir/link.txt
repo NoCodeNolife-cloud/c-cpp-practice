@@ -1,0 +1,3 @@
+"D:\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Sort_and_search.dir/objects.a
+D:\mingw64\bin\ar.exe cr CMakeFiles\Sort_and_search.dir/objects.a @CMakeFiles\Sort_and_search.dir\objects1.rsp
+D:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Sort_and_search.dir/objects.a -Wl,--no-whole-archive -o Sort_and_search.exe -Wl,--out-implib,libSort_and_search.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Sort_and_search.dir\linklibs.rsp
