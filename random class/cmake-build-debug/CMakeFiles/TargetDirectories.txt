@@ -1,0 +1,3 @@
+H:/programe/GitHub-project-warehouse-manager/c-cpp-practice/random class/cmake-build-debug/CMakeFiles/random_class.dir
+H:/programe/GitHub-project-warehouse-manager/c-cpp-practice/random class/cmake-build-debug/CMakeFiles/edit_cache.dir
+H:/programe/GitHub-project-warehouse-manager/c-cpp-practice/random class/cmake-build-debug/CMakeFiles/rebuild_cache.dir
